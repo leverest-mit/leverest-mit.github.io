@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "15.060 Data, Models, and Decisions"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Graduate (MBA) course"
+permalink: /teaching/2023-FA-teaching
+venue: "Sloan School of Management, Massachusetts Institute of Technology"
 date: 2014-01-01
-location: "City, Country"
+location: "Cambridge, MA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
