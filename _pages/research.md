@@ -5,9 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Test for research interests
-1. Test
-2. Test
+Lisa is broadly interested in optimizaiton and machine learning for prescriptive applications. Currently, her work involves collaborators in healthcare, including Massachusetts General Hospital (MGH) and Hartford Hospital. 
 
-- Test
-- Test
+Working Papers
+------
+<>

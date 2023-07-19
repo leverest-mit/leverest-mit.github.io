@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "courses"
+title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
@@ -11,10 +11,10 @@ author_profile: true
 
 2023, Spring
 ------
-15.083 Integer Optimization (taught by [Alexandre, Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/))
+15.083 Integer Optimization (taught by [Alexandre, Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/))<br>
 15.094 Robust Modeling, Optimization, and Computation (taught by [Dimitris Bertsimas](https://www.dbertsim.mit.edu/))
 
 2022, Fall
 ------
-15.081/6.7210 Introduction to Mathematical Programming (taught by [Patrick Jaillet](http://web.mit.edu/jaillet/www/))
+15.081/6.7210 Introduction to Mathematical Programming (taught by [Patrick Jaillet](http://web.mit.edu/jaillet/www/))<br>
 15.095 Machine Learning Under a Modern Optimization Lens (taught by [Dimitris Bertsimas](https://www.dbertsim.mit.edu/))
