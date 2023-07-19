@@ -10,5 +10,5 @@ You may often find me on the mountain! Typically on a snowboard and going downwa
 
 Most recently, I went snowboarding during the July 4th weekend at Mammoth Mountain, in California. They had a historic snowfall in the 2022-2023 winter and there was more than enough snow to ride through July! I also traveled to Summit County, Colorado during Spring Break 2023 to try out Arapahoe Basin and Copper Mountain. During Winter Break 2022, I flew to Banff National Park and rode at Sunshine and Lake Louise.
 
-![test](images/LE_snowboard_1.PNG)
-![test](images/LE_snowboard_2.PNG)
+![LE_snowboard1](https://lisaxeverest.github.io/images/LE_snowboard1.JPG) \\
+![LE_snowboard2](https://lisaxeverest.github.io/images/LE_snowboard2.JPG)
