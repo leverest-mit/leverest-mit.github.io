@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
+  - title: "Travel"
+    url: /travel/
     
   - title: "CV"
     url: /files/Lisa-Everest-CV-final.pdf

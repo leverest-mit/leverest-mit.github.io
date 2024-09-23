@@ -4,6 +4,14 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
+2024, Fall
+------
+6.7960 Deep Learning (taught by [Phillip Isola](http://www.mit.edu/~gamarnik/home.html), [Sara Beery](https://beerys.github.io/), [Jeremy Bernstein](https://jeremybernste.in/))
+
+2024, Spring
+------
+15.085/6.7220 Nonlinear Optimization (taught by [Gabriele Farina](https://www.mit.edu/~gfarina/about/))
+15.764 The Theory of Operations Management (taught by [Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/))
 
 2023, Fall
 ------
@@ -11,8 +19,8 @@ author_profile: true
 
 2023, Spring
 ------
-15.083 Integer Optimization (taught by [Alexandre, Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/))\\
-15.094 Robust Modeling, Optimization, and Computation (taught by [Dimitris Bertsimas](https://www.dbertsim.mit.edu/))
+15.083 Integer Optimization (taught by [Alexandre Jacquillat](https://mitmgmtfaculty.mit.edu/ajacquillat/))\\
+15.094 Robust Modeling, Optimization, and Computation (taught by [Dimitris Bertsimas](https://www.dbertsim.mit.edu/), [Dick den Hertog](https://www.uva.nl/en/profile/h/e/d.denhertog/d.den-hertog.html))
 
 2022, Fall
 ------
