@@ -1,0 +1,17 @@
+---
+title: 'Snowboarding in July!'
+date: 2023-07-19
+permalink: /posts/2012/07/snowboarding/
+tags:
+  - snowboarding
+---
+
+Snowboarding in July!
+------
+
+You may often find me on the mountain! Typically on a snowboard and going downwards, but I'm getting into skiing and backcountry splitboarding.
+
+Most recently, I went snowboarding during the July 4th weekend at Mammoth Mountain, in California. They had a historic snowfall in the 2022-2023 winter and there was more than enough snow to ride through July! I also traveled to Summit County, Colorado during Spring Break 2023 to try out Arapahoe Basin and Copper Mountain. During Winter Break 2022, I flew to Banff National Park and rode at Sunshine and Lake Louise.
+
+![LE_snowboard1](https://lisaxeverest.github.io/images/2023-mammoth/LE_snowboard1.JPG) \\
+![LE_snowboard2](https://lisaxeverest.github.io/images/2023-mammoth/LE_snowboard2.JPG)
